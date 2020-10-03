@@ -1,3 +1,4 @@
+// https://cses.fi/problemset/task/1094/
 #include <cstdio>
 typedef long long ll;
 ll n,counter;
